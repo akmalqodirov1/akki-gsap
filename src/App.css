@@ -140,7 +140,8 @@ section {
   display: flex;
   flex-direction: column;
   gap: 40px;
-  align-items: center;
+  align-items: flex-end;
+  margin-right: 20%;
 
   position: fixed;
   top: 80px;
